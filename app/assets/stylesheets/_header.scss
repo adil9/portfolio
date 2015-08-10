@@ -1,0 +1,20 @@
+.header{
+	height: 30px;
+	line-height: 30px;
+	background-color: black;
+	.home{
+		float: left;
+		margin-left: 12px;
+		display: inline-block;
+		color: white;
+	}
+	.links{
+		float: right;
+		margin-right: 24px;
+		display: inline-block;
+		.each-link{
+			margin: 0px 12px;
+			color: white;
+		}
+	}
+}
